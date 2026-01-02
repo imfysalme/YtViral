@@ -1,0 +1,7 @@
+{
+  "name": "ViralThumb Creator",
+  "description": "An AI-powered tool to create viral YouTube thumbnails by analyzing existing styles and generating high-impact visuals using Gemini 3 Pro Image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
